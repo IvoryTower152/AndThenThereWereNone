@@ -19,7 +19,7 @@
 ## 施工进展
 
 <details>
-    <summary>2021.3</summary>
+    <summary><b>2021.3</b></summary>
     <p>2021.3.6</p>
     <ul>
         <li>构思了人物信息以及一些线索</li>
@@ -79,3 +79,4 @@
         <li>开始筹备术语向导</li>
     </ul>
 </details>
+
